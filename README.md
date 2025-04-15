@@ -52,7 +52,6 @@ Método	Rota	Descrição
 GET	/users	Lista todos usuários
 POST	/users	Cria um novo usuário
 
-```bash
 
 ✍️ Autor
 Feito com 💻 e ☕ por Jean Dias
